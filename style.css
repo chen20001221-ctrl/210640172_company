@@ -1,0 +1,31 @@
+body {
+  font-family: "Microsoft JhengHei", sans-serif;
+  background-color: #f5f9ff;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header.hero {
+  background-color: #4a90e2;
+  color: white;
+  padding: 60px 20px;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  padding: 10px 0;
+  margin-top: 40px;
+  font-size: 14px;
+}
